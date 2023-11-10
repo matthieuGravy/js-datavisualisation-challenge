@@ -40,6 +40,8 @@ Install js-datavisualisation-challenge with npm
 
 ## Roadmap
 
+At first, I had chosen the d3.js library for its extensive capabilities, but for this project, I ultimately opted for Chart.js, which proved to be better suited to our needs.
+
 ![Roadmap](/readme-assets/roadmap.png)
 
 <br />
@@ -47,7 +49,7 @@ Install js-datavisualisation-challenge with npm
 ## Acknowledgements
 
 - [Axios](https://www.npmjs.com/package/axios)
-- [D3js](https://d3js.org/what-is-d3)
+- [Chartjs](https://www.chartjs.org/)
 
 <br />
 
