@@ -22,7 +22,6 @@ import "./assets/wikibits.js";
 */
 //mes imports
 import "./style.css";
-import "./graphique/data";
-import "./graphique/dataChart";
 import "./graphique/dataTableOne";
 import "./graphique/dataTableTwo";
+import "./graphique/dataChart";
